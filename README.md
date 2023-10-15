@@ -4,8 +4,6 @@
 
 'tri_approx.jl' allows to reproduce all the mean-field results.
 
-'aux.jl' contains the code to Montecarlo simulations.
+'aux.jl' contains the code to run Montecarlo simulations.
 
-'real_nets.jl' includes the code to generate hypergraphs from real-world datare and to produce the plots for those hypergraphs.
-
-The edges of the original real-world temporal networks and the edges (2-edge and 3-edges) of the generated hypergraphs are provided in '/real_nets'.
+'real_nets.jl' includes the code to generate hypergraphs from real-world data and to produce the plots for those hypergraphs. The edges of the original real-world temporal networks and the edges (2-edge and 3-edges) of the generated hypergraphs are provided in '/real_nets'.
