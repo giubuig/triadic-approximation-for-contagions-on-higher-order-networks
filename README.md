@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/xxx.svg)](https://zenodo.org/badge/latestdoi/xxx)
 
-'tri_approx.jl' allows to reproduce all the mean-field results.
+'tri_approx.jl' allows to reproduce all the mean-field results and the plots for random regular hypergraphs.
 
 'aux.jl' contains the code to run Montecarlo simulations.
 
